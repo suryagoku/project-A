@@ -1,0 +1,27 @@
+{
+  "name": "project-A",
+  "version": "1.0.0",
+  "description": "This project is an example of integrating a React frontend with a Node.js backend.",
+  "main": "server",
+  "scripts": {
+    "start": "nodemon server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suryagoku/project-A.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suryagoku/project-A/issues"
+  },
+  "homepage": "https://github.com/suryagoku/project-A#readme",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
