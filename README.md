@@ -19,7 +19,7 @@ This project is an example of integrating a React frontend with a Node.js backen
 
 - Clone the repository:
 
-  $ git clone https://github.com/username/react-node-project.git
+  $ git clone https://github.com/suryagoku/project-A.git
 
   - Navigate to root directory
 
@@ -81,6 +81,8 @@ project-A/
 ├── package.json # Node.js project dependencies and scripts
 ├── package-lock.json # Node.js project dependencies version control
 └── README.md # Project README file
+
+![Folder Structure](folder-structure.png)
 
 ## Dependencies
 
